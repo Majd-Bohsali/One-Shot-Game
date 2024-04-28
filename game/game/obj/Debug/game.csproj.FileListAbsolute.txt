@@ -1,0 +1,30 @@
+C:\Users\201691\source\repos\game\game\bin\Debug\game.exe.config
+C:\Users\201691\source\repos\game\game\bin\Debug\game.exe
+C:\Users\201691\source\repos\game\game\bin\Debug\game.pdb
+C:\Users\201691\source\repos\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\201691\source\repos\game\game\obj\Debug\game.Form1.resources
+C:\Users\201691\source\repos\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\201691\source\repos\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\201691\source\repos\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\201691\source\repos\game\game\obj\Debug\game.exe
+C:\Users\201691\source\repos\game\game\obj\Debug\game.pdb
+H:\Visual Studio 2019\repo\game\game\bin\Debug\game.exe.config
+H:\Visual Studio 2019\repo\game\game\bin\Debug\game.exe
+H:\Visual Studio 2019\repo\game\game\bin\Debug\game.pdb
+H:\Visual Studio 2019\repo\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+H:\Visual Studio 2019\repo\game\game\obj\Debug\game.Form1.resources
+H:\Visual Studio 2019\repo\game\game\obj\Debug\game.Properties.Resources.resources
+H:\Visual Studio 2019\repo\game\game\obj\Debug\game.csproj.GenerateResource.cache
+H:\Visual Studio 2019\repo\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2019\repo\game\game\obj\Debug\game.exe
+H:\Visual Studio 2019\repo\game\game\obj\Debug\game.pdb
+C:\Users\majdb\OneDrive\Desktop\game\game\bin\Debug\game.exe.config
+C:\Users\majdb\OneDrive\Desktop\game\game\bin\Debug\game.exe
+C:\Users\majdb\OneDrive\Desktop\game\game\bin\Debug\game.pdb
+C:\Users\majdb\OneDrive\Desktop\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\majdb\OneDrive\Desktop\game\game\obj\Debug\game.Form1.resources
+C:\Users\majdb\OneDrive\Desktop\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\majdb\OneDrive\Desktop\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\majdb\OneDrive\Desktop\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\majdb\OneDrive\Desktop\game\game\obj\Debug\game.exe
+C:\Users\majdb\OneDrive\Desktop\game\game\obj\Debug\game.pdb
